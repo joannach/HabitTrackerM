@@ -3,3 +3,11 @@
 ################################################################################
 
 /Server/HabitTracker.Server/.vs/HabitTracker.Server/DesignTimeBuild/.dtbcache
+/Server/HabitTracker.Server/.vs/HabitTracker.Server/v16/Server/sqlite3/db.lock
+/Server/HabitTracker.Server/.vs/HabitTracker.Server/v16/Server/sqlite3
+/Server/HabitTracker.Server/HabitTracker.Server/bin
+/Server/HabitTracker.Server/HabitTracker.Server/obj
+/Server/HabitTracker.Server/HabitTracker.Server.Contract/bin
+/Server/HabitTracker.Server/HabitTracker.Server.Contract/obj
+/Server/HabitTracker.Server/HabitTrackerServer/bin
+/Server/HabitTracker.Server/HabitTrackerServer/obj
